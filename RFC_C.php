@@ -14,5 +14,5 @@ $objMio->setDatos($nom,$apPat,$apMat,$fecha);
 $datos=$objMio->generarRFC();
 
 }
-require_once('index.html'); 
+require_once('RFC_V.html'); 
 ?>
